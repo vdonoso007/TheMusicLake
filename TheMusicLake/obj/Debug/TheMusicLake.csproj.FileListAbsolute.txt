@@ -1,0 +1,7 @@
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\bin\Debug\TheMusicLake.exe.config
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\bin\Debug\TheMusicLake.exe
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\bin\Debug\TheMusicLake.pdb
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\obj\Debug\TheMusicLake.csproj.CoreCompileInputs.cache
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\obj\Debug\TheMusicLake.exe
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\obj\Debug\TheMusicLake.pdb
+c:\users\vdonoso\documents\visual studio 2017\Projects\TheMusicLake\TheMusicLake\obj\Debug\TheMusicLake.csprojResolveAssemblyReference.cache
